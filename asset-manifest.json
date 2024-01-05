@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Animated-React-Website/static/css/main.78f52eac.css",
+    "main.js": "/Animated-React-Website/static/js/main.0a8e5838.js",
+    "static/js/787.5abcf4f7.chunk.js": "/Animated-React-Website/static/js/787.5abcf4f7.chunk.js",
+    "static/media/C1.png": "/Animated-React-Website/static/media/C1.db6767dce4dbe0c45c32.png",
+    "static/media/andriod.png": "/Animated-React-Website/static/media/andriod.4c234fa392efcffe3526.png",
+    "static/media/software.jpg": "/Animated-React-Website/static/media/software.951a74c035a8a79a9e44.jpg",
+    "static/media/app.jpg": "/Animated-React-Website/static/media/app.78da93c72915b3a6b036.jpg",
+    "static/media/marketing.webp": "/Animated-React-Website/static/media/marketing.61b84b24f71f339f2c8b.webp",
+    "static/media/hero.png": "/Animated-React-Website/static/media/hero.53f1b5467e5095dc4126.png",
+    "static/media/img2.png": "/Animated-React-Website/static/media/img2.0e97b3bb6d561bc16fc6.png",
+    "static/media/digital.webp": "/Animated-React-Website/static/media/digital.ac748e75eb7374cfa47b.webp",
+    "index.html": "/Animated-React-Website/index.html",
+    "main.78f52eac.css.map": "/Animated-React-Website/static/css/main.78f52eac.css.map",
+    "main.0a8e5838.js.map": "/Animated-React-Website/static/js/main.0a8e5838.js.map",
+    "787.5abcf4f7.chunk.js.map": "/Animated-React-Website/static/js/787.5abcf4f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78f52eac.css",
+    "static/js/main.0a8e5838.js"
+  ]
+}
